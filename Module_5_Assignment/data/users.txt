@@ -1,0 +1,3 @@
+user, rx@gmail.com, 01830711080, Nafizul, rana, 26
+admin, nafizulislamrana@gmail.com, 01830711080, Nafizul Islam, Rana, 26
+user, abalim@gmail.com, 12345, Abdul, Alim, 28
